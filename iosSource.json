@@ -28,37 +28,11 @@
       "baseUrl":"https://www.cocomanga.com",
       "search":"/search?searchString="
     },
-
-    "YiManHua":{
-      "baseUrl":"https://m.yimmh.com",
-      "search":"/search?keyword="
-    },
-       
-    "BaiManGu":{
-      "baseUrl":"http://129.204.202.152",
-      "search":"/SearchBook.aspx?keyword="
-    },
-       
-    "ManHuaCat":{
-      "baseUrl":"https://www.maofly.com",
-      "search":"/search.html?q="
-    },
-       
-    "PuFeiManHua":{
-      "baseUrl":"http://m.pufei.cc",
-      "serverUrl":"http://res.img.shengda0769.com/",
-      "search":"/e/search/?searchget=1&tbname=mh&show=title,player,playadmin,bieming,pinyin,playadmin&tempid=4&keyboard="
-    },
        
     "DongManZhiJia":{
       "baseUrl":"https://m.dmzj.com",
       "serverUrl":"https://images.dmzj.com/",
       "apiUrl":"http://api.dmzj.com"
-    },
-       
-    "BoLeFu":{
-      "baseUrl":"http://www.mxqf.com",
-      "search":"/search/?q="
     },
        
     "ManHuaTai":{
@@ -84,10 +58,6 @@
     "DongManWu":{
       "baseUrl":"http://m.dm5.com",
       "serverUrl":""
-    },
-       
-    "JinMainTianTang":{
-      "baseUrl":"https://jmcomic1.rocks"
     },
        
      "HaoManSix":{
